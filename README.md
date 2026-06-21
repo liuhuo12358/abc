@@ -1,3 +1,5 @@
+## TXT  免workers部署 ， 小白测试链接： https://2121.ccwu.cc
+## 聚合搜索 免workers部署 ， 小白测试链接： https://9810.ccwu.cc
 ## Mitv 免workers部署 ， 小白测试链接： https://itv.tv1288.xyz
 
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
